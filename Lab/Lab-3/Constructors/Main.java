@@ -13,7 +13,6 @@ public class Main{
         box2.display();
         box2.length = 10; // This change gets transmitted. 
         box.display();
-        box2.display();
-        
+        box2.display();     
     }
 }
