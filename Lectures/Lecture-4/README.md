@@ -1,1 +1,1 @@
-# Click [here](https://www.notion.so/15-06-2021-Lecture-4-e6f9fa222adf4f70b1bf87a9820c0de6) for notes]
+# Click [here](https://www.notion.so/15-06-2021-Lecture-4-e6f9fa222adf4f70b1bf87a9820c0de6) for notes
